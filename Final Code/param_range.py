@@ -3,7 +3,7 @@
     Code for determination of value(s) and combination of features that is representative 
     of each class label by means of a Ruleset Model (RIPPER algorithm)
     
-    @author: 
+    @author: Akanksha Saxena
 """
 
 import re
